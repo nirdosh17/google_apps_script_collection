@@ -12,3 +12,4 @@ This repo has the list of some common methods to start off with Apps Script and 
 
 ### Extras:
 1. [Send Email using SendGrid](https://github.com/nirdosh17/google_apps_script_collection/blob/master/sendEmailUsingSendGrid.gs)
+2. [CSV Uploader](https://github.com/nirdosh17/google_apps_script_collection/tree/master/csv_uploader)
