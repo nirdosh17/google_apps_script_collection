@@ -6,5 +6,9 @@ This repo has the list of some common methods to start off with Apps Script and 
 
 ### Here is the list:
 
-1. [Reading data from a sheet](https://github.com/nirdosh17/google_apps_script_collection/blob/master/readFromSheet.gs)
-2. [Writing data to a sheet](https://github.com/nirdosh17/google_apps_script_collection/blob/master/writeToSheet.gs)
+1. [Read data from a sheet](https://github.com/nirdosh17/google_apps_script_collection/blob/master/readFromSheet.gs)
+2. [Write data to a sheet](https://github.com/nirdosh17/google_apps_script_collection/blob/master/writeToSheet.gs)
+
+
+### Extras:
+1. [Send Email using SendGrid](https://github.com/nirdosh17/google_apps_script_collection/blob/master/sendEmailUsingSendGrid.gs)

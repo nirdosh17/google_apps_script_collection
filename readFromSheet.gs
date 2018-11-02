@@ -18,7 +18,7 @@ function readDataFromSheet(sheetName) {
     for(var j = 0; j < columns; j++) {
       obj[data[0][j]] = data[i][j];
     }
-    // discard empty row
+    // discard empty row i.e. when there is no data in any column
     if (getObjectValues(obj).join('') !== '') {
       collection.push(obj);
     }
